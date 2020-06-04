@@ -1,2 +1,8 @@
-# 가붕이 롤 전적 사이트
-가붕이는 롤 전적 사이트 입니다.
+# 프로젝트 이름
+Gabungi ’s 
+## 사이트명
+Gabungi.xx
+## 기타
+기간: 6개월
+만드는 이유: 인생성공하려고
+사용 기술: react.js node.js mongodb, mysql	
